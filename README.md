@@ -1,7 +1,7 @@
 # StructureAwareDCNN
 Pytorch Implementation of Inverse halftoning through structure-aware deep convolutional neural networks https://arxiv.org/abs/1905.00637
 
-![](log\img\net.jpg)
+![](https://github.com/Lysemo/StructureAwareDCNN/tree/main/log/img/net.jpg)
 
 ## Dataset Format
 
